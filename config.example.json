@@ -1,0 +1,18 @@
+{
+  "sender": "",
+  "command_prefix": "/task",
+  "poll_interval": 5,
+  "imap_server": "",
+  "imap_port": 993,
+  "imap_username": "",
+  "imap_password": "",
+  "smtp_server": "",
+  "smtp_port": 465,
+  "smtp_username": "",
+  "smtp_password": "",
+  "smtp_sender": "",
+  "openwork_url": "http://127.0.0.1:4096",
+  "workspace_id": "",
+  "token": "",
+  "auto_start": false
+}
