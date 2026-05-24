@@ -1,4 +1,4 @@
-# OpenCodeBridge
+# OpenCodeMailBridge
 
 **发封邮件即让电脑免费干活！**
 
